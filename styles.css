@@ -45,7 +45,7 @@ overflow: hidden;
     );
     top: 0;
     left: 0;
-    animation: scrollTape 15s linear infinite;
+    animation: scrollTape 20s linear infinite;
 }
 
 .tape-2 {
